@@ -2,7 +2,7 @@
   "name": "web_project_around_auth",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://robensonl.github.io/web_project_around_react/",
+  "homepage": "https://robensonl.github.io/web_project_around_auth/",
   "type": "module",
   "scripts": {
     "dev": "vite --open",

@@ -12,18 +12,13 @@ I'm a passionate student and aspiring Full Stack Engineer, currently advancing t
 
 ## 🌟 Featured Project
 
-### 🌎 Proyecto "Alrededor de los EE.UU." / Around the U.S. — React + Vite
+### 🌎 "Around the U.S." — React + Vite
 
-**Español**  
-“Alrededor de los EE.UU.” es una aplicación web interactiva construida con **React + Vite** que permite a los usuarios explorar, crear y gestionar tarjetas con imágenes y descripciones de lugares emblemáticos de los Estados Unidos.  
-Esta versión es una migración moderna del proyecto en JavaScript puro, ahora con componentes reutilizables, hooks, estados globales y conexión directa a una **API REST**.
-
-**English**  
 “Around the U.S.” is an interactive web application built with **React + Vite**, allowing users to explore, create, and manage cards featuring images and descriptions of iconic U.S. landmarks.  
 This version is a modern React refactor of the original vanilla JS project, featuring reusable components, hooks, global state management, and REST API integration.
 
-🔗 [Live Demo](https://robensonl.github.io/web_project_around_react/)  
-🔗 [GitHub Repo](https://github.com/Robensonl/web_project_around_react)
+🔗 [Live Demo](https://robensonl.github.io/web_project_around_auth/)  
+🔗 [GitHub Repo](https://robensonl.github.io/web_project_around_auth)
 
 ---
 
@@ -39,40 +34,40 @@ This version is a modern React refactor of the original vanilla JS project, feat
 
 ---
 
-### ✨ Características Principales
+### ✨ Key Features
 
-- **🔐 Autenticación Segura**: Registro y login de usuarios con JWT
-- **🛡️ Rutas Protegidas**: Acceso restringido a usuarios autenticados
-- **📱 Diseño Responsive**: Optimizado para todos los dispositivos
-- **⚡ React Moderno**: Hooks, Context API y componentes funcionales
-- **🌐 API REST**: Conexión con backend para persistencia de datos
+- **🔐 Secure Authentication**: User registration and login with JWT
+- **🛡️ Protected Routes**: Access restricted to authenticated users
+- **📱 Responsive Design**: Optimized for all devices
+- **⚡ Modern React**: Hooks, Context API, and functional components
+- **🌐 REST API**: Backend integration for data persistence
 
-## 🎯 Funcionalidades Implementadas
+## 🎯 Implemented Features
 
-### Autenticación & Autorización
-- ✅ Registro de nuevos usuarios
-- ✅ Login con email y contraseña
-- ✅ Verificación de token JWT
-- ✅ Logout seguro
-- ✅ Rutas protegidas con `ProtectedRoute`
-- ✅ Redirecciones automáticas basadas en estado de autenticación
+### Authentication & Authorization
+- ✅ New user registration
+- ✅ Email and password login
+- ✅ JWT token verification
+- ✅ Secure logout
+- ✅ Protected routes via `ProtectedRoute`
+- ✅ Automatic redirects based on authentication state
 
-### Gestión de Contenido
-- ✅ Visualización de tarjetas de lugares
-- ✅ Edición de perfil de usuario
-- ✅ Actualización de avatar
-- ✅ Creación de nuevas tarjetas
-- ✅ Sistema de likes
-- ✅ Eliminación de tarjetas propias
+### Content Management
+- ✅ Display of place cards
+- ✅ Edit user profile
+- ✅ Update user avatar
+- ✅ Create new place cards
+- ✅ Like system
+- ✅ Delete own cards
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
 ### Frontend
-- **React 18+** - Biblioteca principal
-- **React Router DOM** - Navegación y rutas protegidas
-- **Context API** - Estado global para usuario
-- **CSS3 con BEM** - Estilos y metodología
-- **LocalStorage** - Persistencia de tokens
+- **React 18+** - Main library
+- **React Router DOM** - Navigation and protected routes
+- **Context API** - Global user state
+- **CSS3 with BEM** - Styling and methodology
+- **LocalStorage** - Token persistence
 
 ---
 
@@ -80,7 +75,7 @@ This version is a modern React refactor of the original vanilla JS project, feat
 
 - [💼 LinkedIn](https://www.linkedin.com/in/robensonlouissaint/)
 - [🧠 GitHub](https://github.com/Robensonl)
-- [🌎 Project Demo](https://robensonl.github.io/web_project_around_react/)
+- [🌎 Project Demo](https://robensonl.github.io/web_project_around_auth/)
 
 ---
 
