@@ -18,15 +18,19 @@ I'm a passionate student and aspiring Full Stack Engineer, currently advancing t
 This version is a modern React refactor of the original vanilla JS project, featuring reusable components, hooks, global state management, and REST API integration.
 
 🔗 [Live Demo](https://robensonl.github.io/web_project_around_auth/)  
-🔗 [GitHub Repo](https://robensonl.github.io/web_project_around_auth)
+🔗 [GitHub Repo](https://github.com/Robensonl/web_project_around_auth.git)
 
 ---
 
 ## 🖼️ Project Gallery
 
+| Register Success | Rgister Error | SignUp |
+|:---:|:---:|:---:|
+| ![Register Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/DesktopSUCCESS.png) | ![Rgister Error Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/errorMOBILE.svg) | ![SIGN_UP](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/SIGN_UP.png) |
+
 | Home Page | Edit Profile | Update Avatar |
 |:---:|:---:|:---:|
-| ![Home Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/screenshot-home.png) | ![Edit Profile Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/screenshot-edit-profile.jpg) | ![Update Avatar Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/screenshot-edit-avatar.png) |
+| ![Home Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/Home_page.jpg) | ![Edit Profile Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/screenshot-edit-profile.jpg) | ![Update Avatar Screenshot](https://github.com/Robensonl/web_project_around_react/raw/main/src/assets/screenshot-edit-avatar.png) |
 
 | Add New Place | View Card | Delete Card |
 |:---:|:---:|:---:|
