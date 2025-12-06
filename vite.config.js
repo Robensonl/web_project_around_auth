@@ -8,5 +8,5 @@ export default defineConfig({
     port: 3000,
     open: true,
   },
-  base: '/web_project_around_auth/', // 👈 nombre de tu repositorio
+  base: '/web_project_around_auth/', 
 })
